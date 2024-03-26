@@ -1,0 +1,9 @@
+#file: noinspection YAMLSchemaValidation
+name: $name
+version: $version
+main: io.github.chaosdave34.amusementpark.AmusementPark
+description: $description
+load: STARTUP
+authors:
+  - Chaosdave34
+api-version: "$apiVersion"
